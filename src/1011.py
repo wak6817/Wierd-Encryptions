@@ -1,6 +1,3 @@
-MESSAGE = "hello"
-
-
 def encrypt(message: str):
     encrypted = ""
 
