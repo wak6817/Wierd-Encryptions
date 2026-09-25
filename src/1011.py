@@ -1,4 +1,4 @@
-def encrypt(message: str):
+def encrypt(message):
     encrypted = ""
 
     for char in message:

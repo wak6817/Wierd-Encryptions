@@ -1,7 +1,7 @@
-def encrypt(message: str):
+def encrypt(message):
     encrypted = ""
-    char = ""
-
+    global char
+    
     for char in message:
         encrypted += "💀"
 
